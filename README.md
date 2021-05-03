@@ -11,7 +11,7 @@
   "باتون۱۱": "انلاین آپلود می‌شود.",
   "باتون۱۲": "انلاین آپلود می‌شود.",
   "لینک۱": "https://as6.cdn.asset.aparat.com/aparat-video/3e54de53579b5014d72841aba869b19d32509668-240p.mp4?wmsAuthSign%5Cu003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZiOTQ3OWQ0NDc4MjAyMDE3MWU0M2QyMmMwMTU4NDk2IiwiZXhwIjoxNjE5MTE5Njg1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2HUInRh22DQ-lPoo_POQLWkq6Z0fOomVj0vFyH5YUbw",
-  "لینک۲": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/c253b3f82eaee5862a4a76d5ef198fc932894373-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZiM2NmYmY0MTFlOGM1MTgzNWY4Yjk1NjcwM2MyM2NhIiwiZXhwIjoxNjE5OTk3MjY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.KuuPgASNFFA22k_jz2bFp5aP0ldNUI5KpxDmnHhSmQU",
+  "لینک۲": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/c253b3f82eaee5862a4a76d5ef198fc932894373-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM1MDJjYTI1ZGQ0ZDBjZjJkMDAyNGFjYTU1NWI4MDI4IiwiZXhwIjoxNjIwMDU3NjU5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.j26-G6xMPoPPGaFa13oJBI6FPHvdan6ASxyyIgvDZE8",
   "لینک۳": "",
   "لینک۴": "",
   "لینک۵": "",
