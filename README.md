@@ -45,5 +45,6 @@
   "عنوان۲۲": "عنوان ویدیو",
   "عنوان۲۳": "توضیحات ویدیو",
   "عنوان۲۴": "عنوان ویدیو",
-  "عنوان۲۵": "توضیحات ویدیو"
+  "عنوان۲۵": "توضیحات ویدیو",
+  "لینک بازی": "https://www.google.com/url?sa\u003dt\u0026source\u003dweb\u0026rct\u003dj\u0026url\u003dhttps://www.google.com/fbx%3Ffbx%3Dsnake_arcade\u0026ved\u003d2ahUKEwjg8bzO4rHwAhVlqnEKHUnlC9cQFjADegQIBBAC\u0026usg\u003dAOvVaw3s2SdqlH-cYjf_06y11xgb"
 }
